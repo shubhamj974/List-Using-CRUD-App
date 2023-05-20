@@ -1,0 +1,28 @@
+@media all and (max-width : 600px){
+    button#submitBtn , button#calcelBtn , button#updateBtn {
+        width:100%;
+        margin-bottom : 0.5rem;
+    }
+}
+
+.linearGradient{
+    background-image: linear-gradient(to right top, #c65695, #b45ba2, #9f61ac, #8867b2, #6f6bb4, #5d79c0, #4a86c8, #3692cc, #30acda, #40c4e3, #5fdde9, #85f4ed);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.linearGradient02{
+    background-image: linear-gradient(to right top, #9d6ad4, #6689ed, #00a2f4, #00b5eb, #00c4db, #00c7de, #00c9e1, #00cce4, #00c3fc, #34b4ff, #86a0ff, #c485f4);
+
+}
+
+.linearGradient03{
+    background-image: linear-gradient(to right top, #41d467, #74cc51, #94c341, #acb939, #c0af39, #d99e40, #e98d52, #ef7f6a, #e67293, #c375b7, #877fca, #3486c6);
+
+}
+
+
+
+
